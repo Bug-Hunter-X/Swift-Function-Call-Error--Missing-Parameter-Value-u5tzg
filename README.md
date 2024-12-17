@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift: forgetting to provide a value for a function parameter. The `bug.swift` file shows the erroneous code, while `bugSolution.swift` provides the corrected version.  This error is easily avoided by carefully reviewing function parameters when calling them.
